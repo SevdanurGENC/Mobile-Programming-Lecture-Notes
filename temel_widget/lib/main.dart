@@ -1,25 +1,32 @@
 import 'package:flutter/material.dart';
 import 'package:temel_widget/modules/student.dart';
+import 'package:temel_widget/screans/student_add.dart';
+import 'package:temel_widget/screans/student_edit.dart';
 
 void main() {
   runApp(MaterialApp(home: MyApp()));
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
+  // _MyAppState createState(){
+  //   return _MyAppState();
+  // }
+}
+
+class _MyAppState extends State<MyApp> {
   String mesaj = "Nano Ogrenci Bilgi Sistemi";
+
+  //String seciliOgrenci = "";
+  Student selectedStudent = Student.withId(0, "", "", 0);
+
   List<Student> students = [
-    Student("Sevdanur", "Genc", 100),
-    Student("Selcuk", "GENC", 40),
-    Student("Liman", "AKCAY", 10)
+    Student.withId(1, "Sevdanur", "Genc", 100),
+    Student.withId(2, "Selcuk", "GENC", 40),
+    Student.withId(3, "Liman", "AKCAY", 10)
   ];
 
-  // var ogrenciler = [
-  //   "Sevdanur GENC",
-  //   "Nano GENC",
-  //   "Selcuk GENC",
-  //   "Liman AKCAY",
-  //   "Sevdanur Nano GENC"
-  // ];
   @override
   Widget build(BuildContext context) {
     //var ogrenciler = ["Sevdanur GENC", "Nano GENC", "Selcuk GENC"];
@@ -84,7 +91,7 @@ class MyApp extends StatelessWidget {
 
   void mesajGoster(BuildContext context, String mesaj) {
     var alert = AlertDialog(
-      title: Text("Sinav sonucunuz : "),
+      title: Text("Islem sonucunuz : "),
       content: Text(mesaj),
     );
     showDialog(context: context, builder: (BuildContext context) => alert);
@@ -116,37 +123,124 @@ class MyApp extends StatelessWidget {
                         "]"),
                     trailing: buildStatusIcon(students[index].grade),
                     onTap: () {
-                      print(students[index].firstName +
-                          " " +
-                          students[index].lastName);
+                      setState(() {
+                        //print(students[index].firstName + " " + students[index].lastName);
+                        print(selectedStudent.firstName +
+                            " " +
+                            selectedStudent.lastName);
+                        //seciliOgrenci = students[index].firstName + " " + students[index].lastName;
+                        selectedStudent = students[index];
+                      });
                     },
                     //Icon(Icons.done),
                   );
                 })),
-        Center(
-            child: RaisedButton(
-          child: Text("Sonucu Gor"),
-          onPressed: () {
-            // int puan = 45;
-            // String mesaj = '';
-            // if (puan >= 50) {
-            //   mesaj = "Gecti";
-            // } else if (puan >= 40) {
-            //   mesaj = "Butunlemeye Kaldi";
-            // } else {
-            //   mesaj = "Kaldi";
-            // }
-            // var alert = AlertDialog(
-            //   title: Text("Sinav sonucu"),
-            //   content: Text(mesaj),
-            // );
-            // showDialog(
-            //     context: context, builder: (BuildContext context) => alert);
+        //Text("Secili ogrenci : " + seciliOgrenci.firstname + " " + seciliOgrenci.lastName),
+        Text("Secili ogrenci : " +
+            selectedStudent.firstName +
+            " " +
+            selectedStudent.lastName),
+        Row(
+          children: <Widget>[
+            Flexible(
+                fit: FlexFit.tight,
+                flex: 2,
+                child: RaisedButton(
+                  color: Colors.greenAccent,
+                  child: Row(
+                    children: [
+                      Icon(Icons.add),
+                      SizedBox(
+                        width: 5.0,
+                      ),
+                      Text("Yeni Ogrenci"),
+                    ],
+                  ),
+                  onPressed: () {
+                    //var mesaj = "Eklendi";
+                    //mesajGoster(context, mesaj);
+                    Navigator.push(
+                        context,
+                        //MaterialPageRoute(builder: (context) => StudentAdd()));
+                        MaterialPageRoute(
+                            builder: (context) => StudentAdd(students)));
+                  },
+                )),
+            Flexible(
+                fit: FlexFit.tight,
+                flex: 2,
+                child: RaisedButton(
+                  color: Colors.blueAccent,
+                  child: Row(
+                    children: [
+                      Icon(Icons.update),
+                      SizedBox(
+                        width: 5.0,
+                      ),
+                      Text("Guncelle"),
+                    ],
+                  ),
+                  onPressed: () {
+                    //var mesaj = sinavHesapla(35);
+                    //var mesaj = "Guncellendi";
+                    //mesajGoster(context, mesaj);
+                    Navigator.push(
+                        context,
+                        //MaterialPageRoute(builder: (context) => StudentAdd()));
+                        MaterialPageRoute(
+                            builder: (context) => StudentEdit(selectedStudent)));
+                  },
+                )),
+            Flexible(
+                fit: FlexFit.tight,
+                flex: 1,
+                child: RaisedButton(
+                  color: Colors.redAccent,
+                  child: Row(
+                    children: [
+                      Icon(Icons.delete),
+                      SizedBox(
+                        width: 5.0,
+                      ),
+                      Text("Sil"),
+                    ],
+                  ),
+                  onPressed: () {
+                    setState(() {
+                      students.remove(selectedStudent);
+                    });
+                    //var mesaj = sinavHesapla(35);
+                    var mesaj = "Silindi." + selectedStudent.firstName;
+                    mesajGoster(context, mesaj);
+                  },
+                )),
+          ],
+        ),
 
-            var mesaj = sinavHesapla(35);
-            mesajGoster(context, mesaj);
-          },
-        )),
+        // Center(
+        //     child: RaisedButton(
+        //   child: Text("Sonucu Gor"),
+        //   onPressed: () {
+        //     // int puan = 45;
+        //     // String mesaj = '';
+        //     // if (puan >= 50) {
+        //     //   mesaj = "Gecti";
+        //     // } else if (puan >= 40) {
+        //     //   mesaj = "Butunlemeye Kaldi";
+        //     // } else {
+        //     //   mesaj = "Kaldi";
+        //     // }
+        //     // var alert = AlertDialog(
+        //     //   title: Text("Sinav sonucu"),
+        //     //   content: Text(mesaj),
+        //     // );
+        //     // showDialog(
+        //     //     context: context, builder: (BuildContext context) => alert);
+        //
+        //     var mesaj = sinavHesapla(35);
+        //     mesajGoster(context, mesaj);
+        //   },
+        // )),
       ],
     );
   }
