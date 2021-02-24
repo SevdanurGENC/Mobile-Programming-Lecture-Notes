@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686680178763",
+    "project_id": "anket-bc9a6",
+    "storage_bucket": "anket-bc9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686680178763:android:5699e72cff01350ea44dce",
+        "android_client_info": {
+          "package_name": "com.nano.anketdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686680178763-bsp4mmjdd9j1hn3019360qnn7tq1t2kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nano.anketdemoapp",
+            "certificate_hash": "313df6667e10f918ce6ef2eb7d39a7c105ffc61c"
+          }
+        },
+        {
+          "client_id": "686680178763-n4dchs9djbk8ggttt1b6oon756c15f12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsyk9GSNNOj1AP_bAvgyE9cWIXO-ZXxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686680178763-n4dchs9djbk8ggttt1b6oon756c15f12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
