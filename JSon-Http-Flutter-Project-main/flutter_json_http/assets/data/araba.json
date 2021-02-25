@@ -1,0 +1,75 @@
+[
+  {
+    "araba_adi" : "Mini Cooper",
+    "ulke" : "ingiltire",
+    "kurulus_tarihi" : 1983,
+    "logo" : "https://img.favpng.com/11/0/4/2018-mini-cooper-bmw-car-logo-png-favpng-KcApUkv51qFJZJw52i4Ax387h.jpg",
+    "model" : [
+      {
+        "model_adi" : "S Serisi",
+        "fiyat" : 170000,
+        "benzinli" : true
+      },
+      {
+        "model_adi" : "G Serisi",
+        "fiyat" : 19000,
+        "benzinli" : false
+      }
+    ]
+  },
+  {
+    "araba_adi" : "Mercedes",
+    "ulke" : "Almanya",
+    "kurulus_tarihi" : 1890,
+    "logo" : "https://marka-logo.com/wp-content/uploads/2020/05/Mercedes-Benz-Logo.png",
+    "model" : [
+      {
+        "model_adi" : "A Serisi",
+        "fiyat" : 15000,
+        "benzinli" : false
+      },
+      {
+        "model_adi" : "C Serisi",
+        "fiyat" : 25000,
+        "benzinli" : true
+      }
+    ]
+  },
+  {
+    "araba_adi" : "Honda",
+    "ulke" : "Japonya",
+    "kurulus_tarihi" : 1920,
+    "logo" : "https://toppng.com/uploads/preview/honda-logo-11548788767xtwmuojhst.png",
+    "model" : [
+      {
+        "model_adi" : "Civic Serisi",
+        "fiyat" : 12000,
+        "benzinli" : true
+      },
+      {
+        "model_adi" : "Jazz Serisi",
+        "fiyat" : 10000,
+        "benzinli" : false
+      }
+    ]
+  },
+  {
+    "araba_adi" : "Renault",
+    "ulke" : "Fransa",
+    "kurulus_tarihi" : 1910,
+    "logo" : "https://i.pinimg.com/originals/07/43/54/07435485c4be92a9125e0225f7f1044b.jpg",
+    "model" : [
+      {
+        "model_adi" : "Fluence Serisi",
+        "fiyat" : 13000,
+        "benzinli" : true
+      },
+      {
+        "model_adi" : "Capture Serisi",
+        "fiyat" : 12000,
+        "benzinli" : false
+      }
+    ]
+  }
+
+]
