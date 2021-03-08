@@ -1,83 +1,83 @@
 {
-   "bilgiler": [
-      {
-         "id": 1,
-         "il": "KASTAMONU",
-         "ilce": "Abana",
-         "nufus": 4049,
-         "resim": "assets/images/baskan_resim/arac.jpg",
-         "baskan": "Tayfun KARTAL",
-         "telefon": 5320642237,
-         "adres": "",
-         "mahalle": [
-            {
-               "mahalle_adi": "Hacıveli"
-            },
-            {
-               "mahalle_adi": "Bağlık"
-            },
-            {
-               "mahalle_adi": "Çayırcık"
-            },
-            {
-               "mahalle_adi": "Konakören"
-            },
-            {
-               "mahalle_adi": "Merkez"
-            }
-         ],
-         "koyler": [
-            {
-               "koy_adi": ""
-            }
-         ]
-      },
-      {
-         "id": 2,
-         "il": "KASTAMONU",
-         "ilce": "Ağlı",
-         "nufus": 3045,
-         "resim": "assets/images/baskan_resim/agli.jpg",
-         "baskan": "Rahmi ŞADUMAN",
-         "telefon": 5383918254,
-         "adres": "",
-         "mahalle": [
-            {
-               "mahalle_adi": "Merkez"
-            },
-            {
-               "mahalle_adi": "Örencik"
-            },
-            {
-               "mahalle_adi": "Yağlıca"
-            },
-            {
-               "mahalle_adi": "Selmanlı"
-            },
-            {
-               "mahalle_adi": "Sinan"
-            },
-            {
-               "mahalle_adi": "Danacı"
-            },
-            {
-               "mahalle_adi": "Dikmen"
-            },
-            {
-               "mahalle_adi": "Alınca"
-            },
-            {
-               "mahalle_adi": "Ketenciler"
-            },
-            {
-               "mahalle_adi": "Kırlardere"
-            }
-         ],
-         "koyler": [
-            {
-               "koy_adi": ""
-            }
-         ]
-      }
-   ]
+    "bilgiler": [
+        {
+            "id": 1,
+            "il": "KASTAMONU",
+            "ilce": "Abana",
+            "nufus": 4049,
+            "resim": "assets/images/baskan_resim/arac.jpg",
+            "baskan": "Tayfun KARTAL",
+            "telefon": 5320642237,
+            "adres": "",
+            "mahalle": [
+                {
+                    "mahalle_adi": "Hacıveli"
+                },
+                {
+                    "mahalle_adi": "Bağlık"
+                },
+                {
+                    "mahalle_adi": "Çayırcık"
+                },
+                {
+                    "mahalle_adi": "Konakören"
+                },
+                {
+                    "mahalle_adi": "Merkez"
+                }
+            ],
+            "koyler": [
+                {
+                    "koy_adi": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "il": "KASTAMONU",
+            "ilce": "Ağlı",
+            "nufus": 3045,
+            "resim": "assets/images/baskan_resim/agli.jpg",
+            "baskan": "Rahmi ŞADUMAN",
+            "telefon": 5383918254,
+            "adres": "",
+            "mahalle": [
+                {
+                    "mahalle_adi": "Merkez"
+                },
+                {
+                    "mahalle_adi": "Örencik"
+                },
+                {
+                    "mahalle_adi": "Yağlıca"
+                },
+                {
+                    "mahalle_adi": "Selmanlı"
+                },
+                {
+                    "mahalle_adi": "Sinan"
+                },
+                {
+                    "mahalle_adi": "Danacı"
+                },
+                {
+                    "mahalle_adi": "Dikmen"
+                },
+                {
+                    "mahalle_adi": "Alınca"
+                },
+                {
+                    "mahalle_adi": "Ketenciler"
+                },
+                {
+                    "mahalle_adi": "Kırlardere"
+                }
+            ],
+            "koyler": [
+                {
+                    "koy_adi": ""
+                }
+            ]
+        }
+    ]
 }
