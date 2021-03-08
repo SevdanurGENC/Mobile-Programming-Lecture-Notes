@@ -1,0 +1,88 @@
+{
+  "bilgiler": [
+    {
+      "id": 1,
+      "il": "KASTAMONU",
+      "ilce": "Abana",
+      "nufus": 4049,
+      "resim": "assets/images/baskan_resim/arac.jpg",
+      "baskan": "Tayfun KARTAL",
+      "telefon": 5320642237,
+      "adres": "",
+      "mahalle": [
+        {
+          "mahalle_adi": "Hacıveli",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Bağlık",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Çayırcık",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Konakören",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Merkez",
+          "mahalle_temsilcisi": ""
+        }
+      ],
+      "koyler": [
+        {
+          "koy_adi": "Alaçam",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Altıkulaç",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Çampınar",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Denizbükü",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Elmaçukuru",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Göynükler",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Kadıyusuf",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Yakabaşı",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Yemeni",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        },
+        {
+          "koy_adi": "Yeşilyuva",
+          "koy_temsilcisi": "",
+          "koy_temsilcisi_telefon": ""
+        }
+      ]
+    }
+  ]
+}
