@@ -11,14 +11,19 @@
       "adres": "",
       "mahalle": [
         {
-          "mahalle_adi" : "Hacıveli"
+          "mahalle_adi": "Hacıveli"
         },
         {
-          "mahalle_adi" : "Bağlık"
-
+          "mahalle_adi": "Bağlık"
         },
         {
-          "mahalle_adi" : "Çayırcık" 
+          "mahalle_adi": "Çayırcık"
+        },
+        {
+          "mahalle_adi": "Konakören"
+        },
+        {
+          "mahalle_adi": "Merkez"
         }
       ],
       "koyler": [
