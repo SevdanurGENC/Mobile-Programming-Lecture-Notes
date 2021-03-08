@@ -1,0 +1,44 @@
+{
+  "bilgiler": [
+    {
+      "id": 1,
+      "il": "KASTAMONU",
+      "ilce": "Abana",
+      "nufus": 4049,
+      "resim": "assets/images/baskan_resim/arac.jpg",
+      "baskan": "Tayfun KARTAL",
+      "telefon": 5320642237,
+      "adres": "",
+      "mahalle": [
+        {
+          "mahalle_adi": "Hacıveli",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Bağlık",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Çayırcık",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Konakören",
+          "mahalle_temsilcisi": ""
+        },
+        {
+          "mahalle_adi": "Merkez",
+          "mahalle_temsilcisi": ""
+        }
+      ],
+      "koyler": [
+        {
+          "koy_adi": "Alaçam"
+        },
+        {
+          "koy_adi": "Altıkulaç"
+        }
+      ]
+    }
+  ]
+}
