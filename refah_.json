@@ -5153,36 +5153,154 @@
         "adres" : "",
         "mahalle" : [
           {
-            "mahalle_adi" : "Merkez"
+            "mahalle_adi" : "Merkez",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Kuztekke"
+            "mahalle_adi" : "Kuztekke",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Çevrik"
+            "mahalle_adi" : "Çevrik",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Dibekli"
+            "mahalle_adi" : "Dibekli",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Korucak"
+            "mahalle_adi" : "Korucak",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Karaman"
+            "mahalle_adi" : "Karaman",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Güneytekke"
+            "mahalle_adi" : "Güneytekke",
+            "mahalle_temsilcisi" : ""
           }
 
         ],
         "koyler" : [
           {
-            "koy_adi" : ""
-
+            "koy_adi" : "Alancık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aşıklı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aybasan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Azkalaycı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Başçavuş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Büyükmutlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Celallı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dağlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Demirkaya",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dereköy",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dördül",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Edeler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Furuncuk",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Gürleyik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Gürpelit",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Harmangeriş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Himmet",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Küçükmutlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Salman",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sefer",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tepecik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Uzunyol",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yarımca",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
           }
         ]
       },
@@ -5197,59 +5315,701 @@
         "adres" : "Pulcular Mahallesi, 29 Ekim Cumhuriyet Meydanı No:10",
         "mahalle" : [
           {
-            "mahalle_adi" : "Gizlice"
+            "mahalle_adi" : "Gizlice",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Ethem"
+            "mahalle_adi" : "Ethem",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Gökırmak"
+            "mahalle_adi" : "Gökırmak",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Harmancık"
+            "mahalle_adi" : "Harmancık",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Karasait"
+            "mahalle_adi" : "Karasait",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Camikebir"
+            "mahalle_adi" : "Camikebir",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Bahçelievler"
+            "mahalle_adi" : "Bahçelievler",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Ağcıkişi"
+            "mahalle_adi" : "Ağcıkişi",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Musalla"
+            "mahalle_adi" : "Musalla",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Üstatlar"
+            "mahalle_adi" : "Üstatlar",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Tekke"
+            "mahalle_adi" : "Tekke",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Pulcular"
+            "mahalle_adi" : "Pulcular",
+            "mahalle_temsilcisi" : ""
           },
           {
-            "mahalle_adi" : "Tabakhane"
+            "mahalle_adi" : "Tabakhane",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Sümer"    }
+            "mahalle_adi" : "Sümer",
+            "mahalle_temsilcisi" : ""
+          }
 
 
         ],
         "koyler" : [
           {
-            "koy_adi" : ""
+            "koy_adi" : "Abay",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Abdalhasan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Afşar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akçakese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akdeğirmen",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akdoğan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akdoğantekke",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akseki",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alamabatak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alamakayış",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alamaşişli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alasökü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alatarla",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alipaşa",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alisaray",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Armutlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Arslanlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aşağıçayırcık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aşağıçit",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aşağıemerce",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Aşağışehirören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ayvalı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Badembekdemir",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bademci",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bekdemirekşi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bekirli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bey",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Boyundurcak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bozarmut",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Böcü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bük",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Celep",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çambaşı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çaycevher",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çaykirpi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çaylaklar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çekiç",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çetmi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çevik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çiftkıran",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çiftlik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çit",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çoroğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çördük",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dağbelören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dere",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Derebeysibey",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Derekaraağaç",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dilek",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Donalar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
 
+          {
+            "koy_adi" : "Doymuş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Duruca",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Erik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ersil",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Esenlik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Eskiatça",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Eskioğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Garipşah",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Gündoğdu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Güneykalınkese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Hacıali",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Hamzaoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Hasanlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Hoca",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İmamoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İncesu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kabalar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kadı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kapaklı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karacakaya",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karacaoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karadedeoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karapürçek",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karnıaçık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karşı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kayadibi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kayapınar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kaygınca",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kılıçlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kıran",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kırha",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kızılcaören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kızılcaörhen",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kızılkese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kirazcık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Koçanlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kornopa",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Köçekli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kuyluş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kuzkalınkese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Küçüksu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Masatlar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Obrucak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Olukbaşı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Orta",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ortaöz",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Oymaağaçseki",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ömerli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Örhen",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Örhenli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Paşa",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Pirahmetli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Samanlıören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sarıkavak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sarıseki",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sarpun",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Şahinçatı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Şehirören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Taşçılar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tavukçuoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tekeoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tepedelik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tokaş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Urgancı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Uzunkavak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Vakıfbelören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yavuç",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yavuçkuyucağı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yazıhamit",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yeniler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yeşilyurt",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yoğunoluk",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yukarıçayırcık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yukarıemerce",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yukarışehirören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
           }
         ]
       },
