@@ -4634,27 +4634,197 @@
         "adres" : "",
         "mahalle" : [
           {
-            "mahalle_adi" : "Camikebir"
+            "mahalle_adi" : "Camikebir",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Camievsat"
+            "mahalle_adi" : "Camievsat",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Müderris"
+            "mahalle_adi" : "Müderris",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Saman"
+            "mahalle_adi" : "Saman",
+            "mahalle_temsilcisi" : ""
           }
 
 
         ],
         "koyler" : [
           {
-            "koy_adi" : ""
-
+            "koy_adi" : "Afşargüney",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Afşarimam",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ahmetbeşe",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Alacık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Avcıpınarı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Belören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Beşören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Beyalan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bürüm",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Camili",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Canbaz",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çat",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çatak",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çaybükü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ersizler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ersizlerdere",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Güllüce",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Güney",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İğdir",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İkizçiler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İmralı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karadonu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Karaman",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kayadibi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kesepınar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Koyunkırtık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kozköy",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kösreli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Köstekçiler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sarpun",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sipahiler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Taşpınar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Topçu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Uzunöz",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
           }
         ]
       },
