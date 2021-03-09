@@ -32,7 +32,8 @@
       "koyler" : [
         {
           "koy_adi" : "Alaçam",
-          "koy_temsilcisi" : "Ali"
+          "koy_temsilcisi" : "Ali",
+          "koy_temsilcisi_telefon" : "367378937"
         },
         {
           "koy_adi" : "Babaçam",
@@ -41,6 +42,24 @@
         {
           "koy_adi" : "Anaçam",
           "koy_temsilcisi" : "Veli"
+        }, 
+        {
+          "koy_adi" : "Babaçam",
+          "koy_temsilcisi" : "kamil",
+          "koy_temsilcisi_telefon" : "367378937"
+        },
+        {
+          "koy_adi" : "Anaçam",
+          "koy_temsilcisi" : "cengiz",
+          "koy_temsilcisi_telefon" : "367378937"
+        },
+        {
+          "koy_adi" : "Babaçam",
+          "koy_temsilcisi" : "berat"
+        },
+        {
+          "koy_adi" : "Anaçam",
+          "koy_temsilcisi" : "kemo"
         } 
       ]
     },
