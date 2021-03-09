@@ -31,7 +31,9 @@
       ],
       "koyler" : [
         {
-          "koy_adi" : "Alaçam"
+          "koy_adi" : "Alaçam",
+          "koy_temsilcisi" : "Ali",
+          "koy_temsilcisi_telefon" : "367378937"
         },
         {
           "koy_adi" : "Babaçam"
