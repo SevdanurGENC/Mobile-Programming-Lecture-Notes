@@ -32,27 +32,16 @@
       "koyler" : [
         {
           "koy_adi" : "Alaçam",
-          "koy_temsilcisi" : "Ali",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_temsilcisi" : "Ali"
         },
         {
-          "koy_adi" : "Babaçam"
+          "koy_adi" : "Babaçam",
+          "koy_temsilcisi" : "Ali"
         },
         {
-          "koy_adi" : "Anaçam"
-        },
-        {
-          "koy_adi" : "Alaçam"
-        },
-        {
-          "koy_adi" : "Alaçam"
-        },
-        {
-          "koy_adi" : "Alaçam"
-        },
-        {
-          "koy_adi" : "Alaçam"
-        }
+          "koy_adi" : "Anaçam",
+          "koy_temsilcisi" : "Veli"
+        } 
       ]
     },
       {
