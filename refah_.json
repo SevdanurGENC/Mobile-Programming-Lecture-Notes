@@ -120,8 +120,69 @@
         ],
         "koyler" : [
           {
-            "koy_adi" : ""
-
+            "koy_adi" : "Adalar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akçakese",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Akdivan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bereketli",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Fırıncık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Gölcüğez",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kabacı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Müsellimler",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Olukozü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Selmanlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tunuslar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Turnacık",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yeşilpınar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
           }
         ]
       },
