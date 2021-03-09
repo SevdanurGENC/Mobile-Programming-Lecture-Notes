@@ -8,63 +8,79 @@
       "baskan" : "Tayfun KARTAL",
       "telefon" : "05320642237",
       "adres" : "",
-      "mahalle" : [
+     "mahalle" : [
         {
-          "mahalle_adi" : "Hacıveli"
+          "mahalle_adi" : "Hacıveli",
+          "mahalle_temsilcisi" : ""
         },
         {
-          "mahalle_adi" : "Bağlık"
-
+          "mahalle_adi" : "Bağlık",
+          "mahalle_temsilcisi" : ""
         },
         {
-          "mahalle_adi" : "Çayırcık"
-
+          "mahalle_adi" : "Çayırcık",
+          "mahalle_temsilcisi" : ""
         },
         {
-          "mahalle_adi" : "Konakören"
-
+          "mahalle_adi" : "Konakören",
+          "mahalle_temsilcisi" : ""
         },
         {
-          "mahalle_adi" : "Merkez"
-
+          "mahalle_adi" : "Merkez",
+          "mahalle_temsilcisi" : ""
         }
       ],
       "koyler" : [
         {
           "koy_adi" : "Alaçam",
-          "koy_temsilcisi" : "Ali",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
         },
         {
-          "koy_adi" : "Babaçam",
-          "koy_temsilcisi" : "Ali",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_adi" : "Altıkulaç",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
         },
         {
-          "koy_adi" : "Anaçam",
-          "koy_temsilcisi" : "Veli",
-          "koy_temsilcisi_telefon" : "367378937"
-        }, 
-        {
-          "koy_adi" : "Babaçam",
-          "koy_temsilcisi" : "kamil",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_adi" : "Çampınar",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
         },
         {
-          "koy_adi" : "Anaçam",
-          "koy_temsilcisi" : "cengiz",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_adi" : "Denizbükü",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
         },
         {
-          "koy_adi" : "Babaçam",
-          "koy_temsilcisi" : "berat",
-          "koy_temsilcisi_telefon" : "367378937"
+          "koy_adi" : "Elmaçukuru",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
         },
         {
-          "koy_adi" : "Anaçam",
-          "koy_temsilcisi" : "kemo",
-          "koy_temsilcisi_telefon" : "367378937"
-        } 
+          "koy_adi" : "Göynükler",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
+        },
+        {
+          "koy_adi" : "Kadıyusuf",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
+        },
+        {
+          "koy_adi" : "Yakabaşı",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
+        },
+        {
+          "koy_adi" : "Yemeni",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
+        },
+        {
+          "koy_adi" : "Yeşilyuva",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : ""
+        }
       ]
     },
       {
