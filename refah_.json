@@ -31,8 +31,9 @@
       ],
       "koyler" : [
         {
-          "koy_adi" : "sfdfdsf"
-
+          "koy_adi" : "Alaçam",
+          "koy_temsilcisi" : "",
+          "koy_temsilcisi_telefon" : "" 
         }
       ]
     },
