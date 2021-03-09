@@ -1151,34 +1151,196 @@
         "baskan" : "Hasan YORULMAZ",
         "telefon" : "05319756437",
         "adres" : "",
-        "mahalle" : [
+       "mahalle" : [
           {
-            "mahalle_adi" : "Hamza"
+            "mahalle_adi" : "Hamza",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Merkez"
+            "mahalle_adi" : "Merkez",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Yeni Mahalle"
+            "mahalle_adi" : "Yeni Mahalle",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Şen"
+            "mahalle_adi" : "Şen",
+            "mahalle_temsilcisi" : ""
 
           },
           {
-            "mahalle_adi" : "Yüksek"
+            "mahalle_adi" : "Yüksek",
+            "mahalle_temsilcisi" : ""
 
           }
 
         ],
         "koyler" : [
           {
-            "koy_adi" : ""
-
+            "koy_adi" : "Alantepe",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ambarcılar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Bayramgazi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Beldeğirmen",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Çiçekyayla",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Darsu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Dursun",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Görentaş",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Güngören",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Günvaktı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Işığan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İbrahim",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İlişi",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "İnceyazı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kayalar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kestanesökü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Keşlik",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kızılelma",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kirazsökü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kocaçam",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Koşmapınar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Köseali",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Kutluca",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Mamatlar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ortasökü",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sakızcılar",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Sarıçiçek",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Şeyhoğlu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Tezcan",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Ulu",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yaşarlı",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
+          },
+          {
+            "koy_adi" : "Yaylatepe",
+            "koy_temsilcisi" : "",
+            "koy_temsilcisi_telefon" : ""
           }
+
         ]
       },
       {
