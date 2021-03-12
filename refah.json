@@ -1,3 +1,4 @@
+[
   {
     "bilgiler": [{
       "id": 1,
@@ -81,6 +82,24 @@
           "koy_adi" : "Yeşilyuva",
           "koy_temsilcisi" : "",
           "koy_temsilcisi_telefon" : ""
+        }
+      ],
+      "gecimKaynagi" : [
+        {
+          "kaynak1" : "Sarımsak",
+          "kaynak1_uretimMiktari" : "50000"
+        },
+        {
+          "kaynak2" : "Pancar",
+          "kaynak1_uretimMiktari" : "70000"
+        },
+        {
+          "kaynak3" : "Tarım",
+          "kaynak3_uretimMiktari" : "70000"
+        },
+        {
+          "kaynak4" : "Arıcılık",
+          "kaynak4_uretimMiktari" : "70000"
         }
       ]
     },
@@ -6411,3 +6430,4 @@
       }
     ]
   }
+]
