@@ -230,6 +230,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -871,6 +889,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -1162,6 +1198,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -1364,6 +1418,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -1840,6 +1912,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -2070,6 +2160,24 @@
             "koy_adi" : "Yunuslar",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       },
@@ -2407,6 +2515,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -2731,6 +2857,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -2884,6 +3028,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -3014,6 +3176,24 @@
             "koy_adi" : "Yukarıçakırçay",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       },
@@ -3194,6 +3374,24 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -3659,6 +3857,24 @@
             "koy_adi" : "Yuvacık",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       },
@@ -4653,6 +4869,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -4859,6 +5093,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -5038,6 +5290,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -5174,6 +5444,24 @@
             "koy_adi" : "Yolyaka",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       },
@@ -5337,6 +5625,24 @@
             "koy_adi" : "Yarımca",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       },
@@ -6048,6 +6354,24 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
@@ -6424,6 +6748,24 @@
             "koy_adi" : "Zincirlikuyu",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       }
