@@ -86,20 +86,20 @@
       ],
       "gecimKaynagi" : [
         {
-          "kaynak1" : "Sarımsak",
-          "kaynak1_uretimMiktari" : "50000"
+          "kaynak" : "Sarımsak",
+          "kaynak_uretimMiktari" : "50000"
         },
         {
-          "kaynak2" : "Pancar",
-          "kaynak1_uretimMiktari" : "70000"
+          "kaynak" : "Pancar",
+          "kaynak_uretimMiktari" : "70000"
         },
         {
-          "kaynak3" : "Tarım",
-          "kaynak3_uretimMiktari" : "70000"
+          "kaynak" : "Tarım",
+          "kaynak_uretimMiktari" : "70000"
         },
         {
-          "kaynak4" : "Arıcılık",
-          "kaynak4_uretimMiktari" : "70000"
+          "kaynak" : "Arıcılık",
+          "kaynak_uretimMiktari" : "70000"
         }
       ]
     },
