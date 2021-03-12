@@ -1,4 +1,3 @@
-[
   {
     "bilgiler": [{
       "id": 1,
@@ -9,31 +8,27 @@
       "baskan" : "Tayfun KARTAL",
       "telefon" : "05320642237",
       "adres" : "",
+      "secmenSayisi" : "3.416",
       "mahalle" : [
         {
           "mahalle_adi" : "Hacıveli",
-          "mahalle_temsilcisi" : ""
-
+          "mahalle_temsilcisi" : "Sevdanur GENC"
         },
         {
           "mahalle_adi" : "Bağlık",
-          "mahalle_temsilcisi" : ""
-
+          "mahalle_temsilcisi" : "Muhammed Fatih AKTAS"
         },
         {
           "mahalle_adi" : "Çayırcık",
           "mahalle_temsilcisi" : ""
-
         },
         {
           "mahalle_adi" : "Konakören",
           "mahalle_temsilcisi" : ""
-
         },
         {
           "mahalle_adi" : "Merkez",
           "mahalle_temsilcisi" : ""
-
         }
       ],
       "koyler" : [
@@ -98,6 +93,7 @@
         "baskan" : "Rahmi ŞADUMAN",
         "telefon" : "05383918254",
         "adres" : "",
+        "secmenSayisi" : "2.768",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
@@ -227,6 +223,7 @@
         "baskan" : "Hayati BESE",
         "telefon" : "05425143183",
         "adres" : "",
+        "secmenSayisi" : "15.285",
         "mahalle" : [
           {
             "mahalle_adi" : "İnönü",
@@ -867,6 +864,7 @@
         "baskan" : "Erdoğan KAVUN",
         "telefon" : "05448635711",
         "adres" : "",
+        "secmenSayisi" : "6.358",
         "mahalle" : [
           {
             "mahalle_adi" : "Yeni Mahalle",
@@ -1157,6 +1155,7 @@
         "baskan" : "Hasan YORULMAZ",
         "telefon" : "05319756437",
         "adres" : "",
+        "secmenSayisi" : "8.089",
         "mahalle" : [
           {
             "mahalle_adi" : "Hamza",
@@ -1358,6 +1357,7 @@
         "baskan" : "ALİ DİNÇER",
         "telefon" : "05374133000",
         "adres" : "Kasaba Mahallesi, Fethi Bey Caddesi No:23 Kat:3",
+        "secmenSayisi" : "20.064",
         "mahalle" : [
           {
             "mahalle_adi" : "Sofular",
@@ -1833,6 +1833,7 @@
         "baskan" : "Celal ÇETİNKAYA",
         "telefon" : "05413013737",
         "adres" : "",
+        "secmenSayisi" : "5.886",
         "mahalle" : [
           {
             "mahalle_adi" : "Çelebiler",
@@ -2063,6 +2064,7 @@
         "baskan" : "Yaşar YAZKAN",
         "telefon" : "05366021104",
         "adres" : "Merkez Mahallesi, İnönü Caddesi No:17",
+        "secmenSayisi" : "7.130",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
@@ -2398,6 +2400,7 @@
         "baskan" : "İsmail BODUR",
         "telefon" : "05416517789",
         "adres" : "",
+        "secmenSayisi" : "11.320",
         "mahalle" : [
           {
             "mahalle_adi" : "İsmailbey",
@@ -2721,6 +2724,7 @@
         "baskan" : "Ali Osman KALAFAT",
         "telefon" : "05398534537",
         "adres" : "",
+        "secmenSayisi" : "4.740",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
@@ -2873,6 +2877,7 @@
         "baskan" : "Şaban ARSLAN",
         "telefon" : "05319760608",
         "adres" : "",
+        "secmenSayisi" : "3.166",
         "mahalle" : [
           {
             "mahalle_adi" : "Gelinbükü",
@@ -3003,6 +3008,7 @@
         "baskan" : "Turgut AKÇA",
         "telefon" : "05412330437",
         "adres" : "",
+        "secmenSayisi" : "4.298",
         "mahalle" : [
           {
             "mahalle_adi" : "Yeni Mahalle",
@@ -3181,6 +3187,7 @@
         "baskan" : "Yavuz YILMAZ",
         "telefon" : "05326584577",
         "adres" : "Aşağıhatipbağı Mahallesi, Yeni Çarşı Sokak No:5",
+        "secmenSayisi" : "16.030",
         "mahalle" : [
           {
             "mahalle_adi" : "Avrara",
@@ -3646,6 +3653,7 @@
         "baskan" : "İlker UZUNER",
         "telefon" : "05061010718",
         "adres" : "",
+        "secmenSayisi" : "101.667",
         "mahalle" : [
           {
             "mahalle_adi" : "Kuzeykent",
@@ -4638,6 +4646,7 @@
         "baskan" : "Hamza BOSTANCI",
         "telefon" : "05374716923",
         "adres" : "",
+        "secmenSayisi" : "4.708",
         "mahalle" : [
           {
             "mahalle_adi" : "Camikebir",
@@ -4843,6 +4852,7 @@
         "baskan" : "Metin KESKİN",
         "telefon" : "05368712698",
         "adres" : "Cumhuriyet Caddesi No:18 Kat:3",
+        "secmenSayisi" : "5.712",
         "mahalle" : [
           {
             "mahalle_adi" : "Uzunçam",
@@ -5021,6 +5031,7 @@
         "baskan" : "İbrahim HELVACI",
         "telefon" : "",
         "adres" : "",
+        "secmenSayisi" : "3.426",
         "mahalle" : [
           {
             "mahalle_adi" : "Delihacılar",
@@ -5157,6 +5168,7 @@
         "baskan" : "Hayri ÇELİK",
         "telefon" : "05357268020",
         "adres" : "",
+        "secmenSayisi" : "4.250",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
@@ -5319,6 +5331,7 @@
         "baskan" : "Mehmet Ali TOPÇU",
         "telefon" : "05434333737",
         "adres" : "Pulcular Mahallesi, 29 Ekim Cumhuriyet Meydanı No:10",
+        "secmenSayisi" : "31.202",
         "mahalle" : [
           {
             "mahalle_adi" : "Gizlice",
@@ -6028,6 +6041,7 @@
         "baskan": "İbrahim Demir",
         "telefon": "05325510303",
         "adres": "",
+        "secmenSayisi" : "32.136",
         "mahalle": [
           {
             "mahalle_adi": "Şehreküstü",
@@ -6397,4 +6411,3 @@
       }
     ]
   }
-]
