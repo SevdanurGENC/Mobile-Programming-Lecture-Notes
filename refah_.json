@@ -3,31 +3,38 @@
       "id": 1,
       "il": "KASTAMONU",
       "ilce": "Abana",
-      "nufus" : "4049",
+      "nufus" : "4.049",
       "resim" : "assets/images/baskan_resim/arac.jpg",
       "baskan" : "Tayfun KARTAL",
       "telefon" : "05320642237",
       "adres" : "",
-     "mahalle" : [
+      "secmenSayisi" : "3.416",
+      "mahalle" : [
         {
           "mahalle_adi" : "Hacıveli",
-          "mahalle_temsilcisi" : "Sevdanur GENC"
+          "mahalle_temsilcisi" : "",
+          "mahalle_temsilcisi_telefon" : "0545214563"
+
         },
         {
           "mahalle_adi" : "Bağlık",
-          "mahalle_temsilcisi" : "Muhammed Fatih AKTAS"
+          "mahalle_temsilcisi" : "",
+          "mahalle_temsilcisi_telefon" : ""
         },
         {
           "mahalle_adi" : "Çayırcık",
-          "mahalle_temsilcisi" : ""
+          "mahalle_temsilcisi" : "",
+          "mahalle_temsilcisi_telefon" : ""
         },
         {
           "mahalle_adi" : "Konakören",
-          "mahalle_temsilcisi" : ""
+          "mahalle_temsilcisi" : "",
+          "mahalle_temsilcisi_telefon" : ""
         },
         {
           "mahalle_adi" : "Merkez",
-          "mahalle_temsilcisi" : ""
+          "mahalle_temsilcisi" : "",
+          "mahalle_temsilcisi_telefon" : ""
         }
       ],
       "koyler" : [
@@ -81,66 +88,95 @@
           "koy_temsilcisi" : "",
           "koy_temsilcisi_telefon" : ""
         }
+      ],
+      "gecimKaynagi" : [
+        {
+          "kaynak" : "Sarımsak",
+          "kaynak_uretimMiktari" : "50000"
+        },
+        {
+          "kaynak" : "Pancar",
+          "kaynak_uretimMiktari" : "70000"
+        },
+        {
+          "kaynak" : "Tarım",
+          "kaynak_uretimMiktari" : "70000"
+        },
+        {
+          "kaynak" : "Arıcılık",
+          "kaynak_uretimMiktari" : "70000"
+        }
       ]
     },
       {
         "id": 2,
         "il": "KASTAMONU",
         "ilce": "Ağlı",
-        "nufus" : "3045",
+        "nufus" : "3.045",
         "resim" : "assets/images/baskan_resim/agli.jpg",
         "baskan" : "Rahmi ŞADUMAN",
         "telefon" : "05383918254",
         "adres" : "",
+        "secmenSayisi" : "2.768",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Örencik",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yağlıca",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Selmanlı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sinan",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Danacı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Dikmen",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Alınca",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Ketenciler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kırlardere",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
         ],
@@ -210,46 +246,71 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 3,
         "il": "KASTAMONU",
         "ilce": "Araç",
-        "nufus" : "18149",
+        "nufus" : "18.149",
         "resim" : "assets/images/baskan_resim/arac.jpg",
         "baskan" : "Hayati BESE",
         "telefon" : "05425143183",
         "adres" : "",
-       "mahalle" : [
+        "secmenSayisi" : "15.285",
+        "mahalle" : [
           {
             "mahalle_adi" : "İnönü",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Çay",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeşil",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Mesudiye",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeni",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yukarıağaç",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
         ],
@@ -850,46 +911,71 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 4,
         "il": "KASTAMONU",
         "ilce": "Azdavay",
-        "nufus" : "7268",
+        "nufus" : "7.268",
         "resim" : "assets/images/baskan_resim/azdavay.jpg",
         "baskan" : "Erdoğan KAVUN",
         "telefon" : "05448635711",
         "adres" : "",
+        "secmenSayisi" : "6.358",
         "mahalle" : [
           {
             "mahalle_adi" : "Yeni Mahalle",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Karşıyaka",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Bahçelievler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeni",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yukarıağaç",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
         ],
@@ -1140,41 +1226,65 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 5,
         "il": "KASTAMONU",
         "ilce": "Bozkurt",
-        "nufus" : "9620",
+        "nufus" : "9.620",
         "resim" : "assets/images/baskan_resim/bozkurt.jpg",
         "baskan" : "Hasan YORULMAZ",
         "telefon" : "05319756437",
         "adres" : "",
-       "mahalle" : [
+        "secmenSayisi" : "8.089",
+        "mahalle" : [
           {
             "mahalle_adi" : "Hamza",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeni Mahalle",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Şen",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yüksek",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
 
@@ -1341,101 +1451,137 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 6,
         "il": "KASTAMONU",
         "ilce": "Cide",
-        "nufus" : "21919",
+        "nufus" : "21.919",
         "resim" : "assets/images/baskan_resim/cide.jpg",
         "baskan" : "ALİ DİNÇER",
         "telefon" : "05374133000",
         "adres" : "Kasaba Mahallesi, Fethi Bey Caddesi No:23 Kat:3",
+        "secmenSayisi" : "20.064",
         "mahalle" : [
           {
             "mahalle_adi" : "Sofular",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sipahi",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Tarakçı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Nasuh",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kasaba",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kasımköy",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Gebeş",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Ece",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kırcı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sofular",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kemerli",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kumluca",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Memiş",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Irmak",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kalafat",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Bağyurdu",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Cumhuriyet",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
         ],
@@ -1816,26 +1962,47 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 7,
         "il": "KASTAMONU",
         "ilce": "Çatalzeyin",
-        "nufus" : "7299",
+        "nufus" : "7.299",
         "resim" : "assets/images/baskan_resim/catalzeytin.jpg",
         "baskan" : "Celal ÇETİNKAYA",
         "telefon" : "05413013737",
         "adres" : "",
+        "secmenSayisi" : "5.886",
         "mahalle" : [
           {
             "mahalle_adi" : "Çelebiler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
 
@@ -2046,36 +2213,59 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 8,
         "il": "KASTAMONU",
         "ilce": "Daday",
-        "nufus" : "8217",
+        "nufus" : "8.217",
         "resim" : "assets/images/baskan_resim/daday.jpg",
         "baskan" : "Yaşar YAZKAN",
         "telefon" : "05366021104",
         "adres" : "Merkez Mahallesi, İnönü Caddesi No:17",
+        "secmenSayisi" : "7.130",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kalem",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Bey",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kelebek",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -2381,55 +2571,82 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 9,
         "il": "KASTAMONU",
         "ilce": "Devrekani",
-        "nufus" : "12341",
+        "nufus" : "12.341",
         "resim" : "assets/images/baskan_resim/devrekani.jpg",
         "baskan" : "İsmail BODUR",
         "telefon" : "05416517789",
         "adres" : "",
+        "secmenSayisi" : "11.320",
         "mahalle" : [
           {
             "mahalle_adi" : "İsmailbey",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kadirbey",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Etçiler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Ahiçelebi",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Çayırcık",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kurtşeyh",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Mütevelli",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sazyaka",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -2704,26 +2921,47 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 10,
         "il": "KASTAMONU",
         "ilce": "Doğanyurt",
-        "nufus" : "5638",
+        "nufus" : "5.638",
         "resim" : "assets/images/baskan_resim/doganyurt.jpg",
         "baskan" : "Ali Osman KALAFAT",
         "telefon" : "05398534537",
         "adres" : "",
-         "mahalle" : [
+        "secmenSayisi" : "4.740",
+        "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Hocaköy",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
 
@@ -2856,31 +3094,53 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 11,
         "il": "KASTAMONU",
         "ilce": "Hanönü",
-        "nufus" : "4137",
+        "nufus" : "4.137",
         "resim" : "assets/images/baskan_resim/hanonu.jpg",
         "baskan" : "Şaban ARSLAN",
         "telefon" : "05319760608",
         "adres" : "",
+        "secmenSayisi" : "3.166",
         "mahalle" : [
           {
             "mahalle_adi" : "Gelinbükü",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Vakıfgeymene",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           }
 
@@ -2986,64 +3246,93 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 12,
         "il": "KASTAMONU",
         "ilce": "İhsangazi",
-        "nufus" : "5219",
+        "nufus" : "5.219",
         "resim" : "assets/images/baskan_resim/ihsangazi.jpg",
         "baskan" : "Turgut AKÇA",
         "telefon" : "05412330437",
         "adres" : "",
-       "mahalle" : [
+        "secmenSayisi" : "4.298",
+        "mahalle" : [
           {
             "mahalle_adi" : "Yeni Mahalle",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeşil Mahalle",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sipahiler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Sevindik",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Kuşcular",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kalfat",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Elçelebi",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "İsalar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Çay",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Afşar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -3164,82 +3453,115 @@
             "koy_temsilcisi_telefon" : ""
           }
 
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 13,
         "il": "KASTAMONU",
         "ilce": "İnebolu",
-        "nufus" : "20877",
+        "nufus" : "20.877",
         "resim" : "assets/images/baskan_resim/inebolu.jpg",
         "baskan" : "Yavuz YILMAZ",
         "telefon" : "05326584577",
         "adres" : "Aşağıhatipbağı Mahallesi, Yeni Çarşı Sokak No:5",
+        "secmenSayisi" : "16.030",
         "mahalle" : [
           {
             "mahalle_adi" : "Avrara",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Aşağıhatipbağı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Çamlıca",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Camikebir",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Boyran",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Cünüriye",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Karadeniz",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Karaca",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Kızılkara",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Musaköy",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeşilöz",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yeni Mahalle",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Y.Hatipbağı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Yakaboyu",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -3629,109 +3951,148 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 14,
         "il": "KASTAMONU",
         "ilce": "KASTAMONU",
-        "nufus" : "151500",
+        "nufus" : "151.500",
         "resim" : "assets/images/baskan_resim/merkez.jpg",
         "baskan" : "İlker UZUNER",
         "telefon" : "05061010718",
         "adres" : "",
+        "secmenSayisi" : "101.667",
         "mahalle" : [
           {
             "mahalle_adi" : "Kuzeykent",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Saraçlar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Topçuoğlu",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yavuz Selim",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "İsfendiyar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "İnönü",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "İsmailbey",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kırkçeşme",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Honsalar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Hisarardı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Hepkebirler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Mehmet Akif Ersoy",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Esentepe",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Budamış",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Beyçelebi",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Akmescit",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Aktekke",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Candaroğulları",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Cebrail",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Atabeygazi",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -4621,36 +4982,59 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 15,
         "il": "KASTAMONU",
         "ilce": "Küre",
-        "nufus" : "5669",
+        "nufus" : "5.669",
         "resim" : "assets/images/baskan_resim/kure.jpg",
         "baskan" : "Hamza BOSTANCI",
         "telefon" : "05374716923",
         "adres" : "",
+        "secmenSayisi" : "4.708",
         "mahalle" : [
           {
             "mahalle_adi" : "Camikebir",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Camievsat",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Müderris",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Saman",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
 
@@ -4826,45 +5210,70 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 16,
         "il": "KASTAMONU",
         "ilce": "Pınarbaşı",
-        "nufus" : "5756",
+        "nufus" : "5.756",
         "resim" : "assets/images/baskan_resim/pinarbasi.jpg",
         "baskan" : "Metin KESKİN",
         "telefon" : "05368712698",
         "adres" : "Cumhuriyet Caddesi No:18 Kat:3",
+        "secmenSayisi" : "5.712",
         "mahalle" : [
           {
             "mahalle_adi" : "Uzunçam",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Atatürk",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Çamkışla",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Cumhuriyet",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Çalkaya",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Fatih",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -5004,63 +5413,92 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 17,
         "il": "KASTAMONU",
         "ilce": "Seydiler",
-        "nufus" : "4196",
+        "nufus" : "4.196",
         "resim" : "assets/images/baskan_resim/seydiler.jpg",
         "baskan" : "İbrahim HELVACI",
         "telefon" : "",
         "adres" : "",
+        "secmenSayisi" : "3.426",
         "mahalle" : [
           {
             "mahalle_adi" : "Delihacılar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Demirciözü",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Hacıkayalar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Ayvatlar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Aşağı Arslanlı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Batıörcünler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Yağlar",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Yayla",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Yukarı Arslanlı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -5140,49 +5578,75 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 18,
         "il": "KASTAMONU",
         "ilce": "Şenpazar",
-        "nufus" : "4402",
+        "nufus" : "4.402",
         "resim" : "assets/images/baskan_resim/senpazar.jpg",
         "baskan" : "Hayri ÇELİK",
         "telefon" : "05357268020",
         "adres" : "",
+        "secmenSayisi" : "4.250",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Kuztekke",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Çevrik",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Dibekli",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Korucak",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
 
           },
           {
             "mahalle_adi" : "Karaman",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi" : "Güneytekke",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
 
         ],
@@ -5302,17 +5766,36 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 19,
         "il": "KASTAMONU",
         "ilce": "Taşköprü",
-        "nufus" : "37439",
+        "nufus" : "37.439",
         "resim" : "assets/images/baskan_resim/taskopru.jpg",
         "baskan" : "Mehmet Ali TOPÇU",
         "telefon" : "05434333737",
         "adres" : "Pulcular Mahallesi, 29 Ekim Cumhuriyet Meydanı No:10",
+        "secmenSayisi" : "31.202",
         "mahalle" : [
           {
             "mahalle_adi" : "Gizlice",
@@ -6011,109 +6494,151 @@
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
           }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
+          }
         ]
       },
       {
         "id": 20,
         "il": "KASTAMONU",
         "ilce": "Tosya",
-        "nufus": "39637",
+        "nufus": "39.637",
         "resim": "assets/images/baskan_resim/tosya.jpg",
         "baskan": "İbrahim Demir",
         "telefon": "05325510303",
         "adres": "",
-"mahalle": [
+        "secmenSayisi" : "32.136",
+        "mahalle": [
           {
             "mahalle_adi": "Şehreküstü",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Şeh",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Yavuz Selim",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Pınarbaşı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Yunus Emre",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Mimar Sinan",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Kuzyaka",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Karşıyaka",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Bahçelievler",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Cumhuriyet",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Camiatik",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Çatma",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Dilküşa",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Dere",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Kargı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "İlyasbey",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Hacıkemal",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Hocafakı",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Hocaimat",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "İbni Selim",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Harsat",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Hacıpir",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           },
           {
             "mahalle_adi": "Fevzipaşa",
-            "mahalle_temsilcisi" : ""
+            "mahalle_temsilcisi" : "",
+            "mahalle_temsilcisi_telefon" : ""
           }
         ],
         "koyler": [
@@ -6386,6 +6911,24 @@
             "koy_adi" : "Zincirlikuyu",
             "koy_temsilcisi" : "",
             "koy_temsilcisi_telefon" : ""
+          }
+        ],
+        "gecimKaynagi" : [
+          {
+            "kaynak" : "Sarımsak",
+            "kaynak_uretimMiktari" : "50000"
+          },
+          {
+            "kaynak" : "Pancar",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Tarım",
+            "kaynak_uretimMiktari" : "70000"
+          },
+          {
+            "kaynak" : "Arıcılık",
+            "kaynak_uretimMiktari" : "70000"
           }
         ]
       }
