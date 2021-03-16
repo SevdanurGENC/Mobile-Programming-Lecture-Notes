@@ -18,18 +18,18 @@
 
           "sandik" : [
             {
-              "sandik_adi": "1122",
+              "sandik_adi": "1",
               "sandik_temsilcisi": "ALi Osman",
               "sandik_temsilcisi_telefon": "0545214563"
             },
-             {
-              "sandik_adi": "1123,
-              "sandik_temsilcisi": "ALi Osman",
+            {
+              "sandik_adi": "2",
+              "sandik_temsilcisi": "ALi Rıza",
               "sandik_temsilcisi_telefon": "0545214563"
             },
-             {
-              "sandik_adi": "1124",
-              "sandik_temsilcisi": "ALi Osman",
+            {
+              "sandik_adi": "3",
+              "sandik_temsilcisi": "ALi Yiğit",
               "sandik_temsilcisi_telefon": "0545214563"
             }
           ]
@@ -41,7 +41,7 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "55555",
+              "sandik_adi": "2",
               "sandik_temsilcisi": "",
               "sandik_temsilcisi_telefon": "0545214563"
             }
@@ -53,7 +53,7 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "2",
+              "sandik_adi": "3",
               "sandik_temsilcisi": "",
               "sandik_temsilcisi_telefon": "0545214563"
             }
@@ -65,7 +65,7 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "3",
+              "sandik_adi": "4",
               "sandik_temsilcisi": "",
               "sandik_temsilcisi_telefon": "0545214563"
             }
@@ -77,7 +77,7 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "4",
+              "sandik_adi": "5",
               "sandik_temsilcisi": "",
               "sandik_temsilcisi_telefon": "0545214563"
             }
