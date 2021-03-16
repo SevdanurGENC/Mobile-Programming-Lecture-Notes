@@ -18,17 +18,17 @@
 
           "sandik" : [
             {
-              "sandik_adi": "1",
+              "sandik_adi": "11",
               "sandik_temsilcisi": "ALi Osman",
               "sandik_temsilcisi_telefon": "0545214563"
             },
             {
-              "sandik_adi": "2",
+              "sandik_adi": "12",
               "sandik_temsilcisi": "ALi Rıza",
               "sandik_temsilcisi_telefon": "0545214563"
             },
             {
-              "sandik_adi": "3",
+              "sandik_adi": "13",
               "sandik_temsilcisi": "ALi Yiğit",
               "sandik_temsilcisi_telefon": "0545214563"
             }
@@ -41,8 +41,8 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "2",
-              "sandik_temsilcisi": "",
+              "sandik_adi": "21",
+              "sandik_temsilcisi": "Ali Cengiz",
               "sandik_temsilcisi_telefon": "0545214563"
             }
           ]
@@ -53,8 +53,8 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "3",
-              "sandik_temsilcisi": "",
+              "sandik_adi": "31",
+              "sandik_temsilcisi": "Kemal Cingoz",
               "sandik_temsilcisi_telefon": "0545214563"
             }
           ]
@@ -65,8 +65,8 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "4",
-              "sandik_temsilcisi": "",
+              "sandik_adi": "41",
+              "sandik_temsilcisi": "Ayse Fatma",
               "sandik_temsilcisi_telefon": "0545214563"
             }
           ]
@@ -77,8 +77,8 @@
           "mahalle_temsilcisi_telefon" : "",
           "sandik" : [
             {
-              "sandik_adi": "5",
-              "sandik_temsilcisi": "",
+              "sandik_adi": "51",
+              "sandik_temsilcisi": "Besinci sandikgiller",
               "sandik_temsilcisi_telefon": "0545214563"
             }
           ]
