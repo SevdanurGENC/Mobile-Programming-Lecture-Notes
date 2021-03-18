@@ -1,0 +1,41 @@
+void main() {
+  
+  Map isimler = {1:"Sevdanur", 2:"Huseyin", 3:"Zeynep", 4:"Dogus", 5:"Selcuk"};
+  Map isimler_ = {
+    1 : {"isim" : "Sevdanur", "soyisim" : "GENC", "yas" : 37},
+    2 : {"isim" : "Selcuk", "soyisim" : "GENC", "yas" : 45},
+    3 : {"isim" : "Huseyin", "soyisim" : "SAHIN", "yas" : 37} 
+  };
+  
+  Map yeniIsimler = {
+    4 : {"isim" : "Hakan", "soyisim" : "SINAP", "yas" : 38},
+    5 : {"isim" : "Hayrettin", "soyisim" : "SENDIL", "yas" : 29},    
+  };
+  
+  
+  //print(isimler);
+  //print(isimler[1]);
+  //print(isimler[3]["isim"]);
+  
+  //print(isimler.isEmpty);
+  //print(isimler.isNotEmpty);
+  //print(isimler.keys);
+  //print(isimler.length);
+  //print(isimler.values);
+  //isimler.addAll(yeniIsimler);
+  //print(isimler);
+  //isimler.clear();
+  //print(isimler);
+  //print(isimler.containsValue("Sevdanur"));
+  
+  //isimler.forEach((anahtar,deger){
+  //  print(anahtar.toString() + ". anahtarin deger : " + deger.toString());
+  //});
+  
+  //isimler.remove(2);
+  //print(isimler);
+  
+  //isimler_.update(2, (value) => {"isim" : "Ali", "soyisim" : "Cengiz", "yas" : "50"});
+  //print(isimler_);
+    
+}
