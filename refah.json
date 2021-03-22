@@ -10,7 +10,7 @@
       "telefon" : "05320642237",
       "adres" : "",
       "secmenSayisi" : "3.416",
-      "belediye_baskanı" : "",
+      "belediye_baskanı" : "Sevdanur GENC",
       "mahalle" : [
         {
 
@@ -261,7 +261,7 @@
         "telefon" : "05383918254",
         "adres" : "",
         "secmenSayisi" : "2.768",
-        "belediye_baskanı" : "",
+        "belediye_baskanı" : "Muhammed Fatih AKTAS",
         "mahalle" : [
           {
             "mahalle_adi" : "Merkez",
