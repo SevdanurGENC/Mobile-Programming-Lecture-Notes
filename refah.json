@@ -10,7 +10,7 @@
       "telefon": "05320642237",
       "adres": "",
       "secmenSayisi": "3.416",
-      "belediye_baskanı": "Sevdanur GENC",
+      "belediye_baskani": "Sevdanur GENC",
       "mahalle": [
         {
           "mahalle_adi": "Hacıveli",
@@ -259,7 +259,7 @@
       "telefon": "05383918254",
       "adres": "",
       "secmenSayisi": "2.768",
-      "belediye_baskanı": "Muhammed Fatih AKTAS",
+      "belediye_baskani": "Muhammed Fatih AKTAS",
       "mahalle": [
         {
           "mahalle_adi": "Merkez",
@@ -579,7 +579,7 @@
       "telefon": "05425143183",
       "adres": "",
       "secmenSayisi": "15.285",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "İnönü",
@@ -2176,7 +2176,7 @@
       "telefon": "05448635711",
       "adres": "",
       "secmenSayisi": "6.358",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Yeni Mahalle",
@@ -2888,7 +2888,7 @@
       "telefon": "05319756437",
       "adres": "",
       "secmenSayisi": "8.089",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Hamza",
@@ -3431,7 +3431,7 @@
       "telefon": "05374133000",
       "adres": "Kasaba Mahallesi, Fethi Bey Caddesi No:23 Kat:3",
       "secmenSayisi": "20.064",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Sofular",
@@ -4649,7 +4649,7 @@
       "telefon": "05413013737",
       "adres": "",
       "secmenSayisi": "5.886",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Çelebiler",
@@ -5217,7 +5217,7 @@
       "telefon": "05366021104",
       "adres": "Merkez Mahallesi, İnönü Caddesi No:17",
       "secmenSayisi": "7.130",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Merkez",
@@ -6049,7 +6049,7 @@
       "telefon": "05416517789",
       "adres": "",
       "secmenSayisi": "11.320",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "İsmailbey",
@@ -6867,7 +6867,7 @@
       "telefon": "05398534537",
       "adres": "",
       "secmenSayisi": "4.740",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Merkez",
@@ -7235,7 +7235,7 @@
       "telefon": "05319760608",
       "adres": "",
       "secmenSayisi": "3.166",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Gelinbükü",
@@ -7565,7 +7565,7 @@
       "telefon": "05412330437",
       "adres": "",
       "secmenSayisi": "4.298",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Yeni Mahalle",
@@ -8005,7 +8005,7 @@
       "telefon": "05326584577",
       "adres": "Aşağıhatipbağı Mahallesi, Yeni Çarşı Sokak No:5",
       "secmenSayisi": "16.030",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Avrara",
@@ -9211,7 +9211,7 @@
       "telefon": "05061010718",
       "adres": "",
       "secmenSayisi": "101.667",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Kuzeykent",
@@ -12739,7 +12739,7 @@
       "telefon": "05374716923",
       "adres": "",
       "secmenSayisi": "4.708",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Camikebir",
@@ -13264,7 +13264,7 @@
       "telefon": "05368712698",
       "adres": "Cumhuriyet Caddesi No:18 Kat:3",
       "secmenSayisi": "5.712",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Uzunçam",
@@ -13709,7 +13709,7 @@
       "telefon": "",
       "adres": "",
       "secmenSayisi": "3.426",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Delihacılar",
@@ -14053,7 +14053,7 @@
       "telefon": "05357268020",
       "adres": "",
       "secmenSayisi": "4.250",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Merkez",
@@ -14457,7 +14457,7 @@
       "telefon": "05434333737",
       "adres": "Pulcular Mahallesi, 29 Ekim Cumhuriyet Meydanı No:10",
       "secmenSayisi": "31.202",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Gizlice",
@@ -16332,7 +16332,7 @@
       "telefon": "05325510303",
       "adres": "",
       "secmenSayisi": "32.136",
-      "belediye_baskanı": "",
+      "belediye_baskani": "",
       "mahalle": [
         {
           "mahalle_adi": "Şehreküstü",
